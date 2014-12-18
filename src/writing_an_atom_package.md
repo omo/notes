@@ -53,4 +53,4 @@ Atom では [BufferedProcess](https://atom.io/docs/api/v0.158.0/BufferedProcess)
 # 保存の監視
 
  * ｀TextEditor#onDidSave`
- * `atom.workspace.observeEditor()
+ * `atom.workspace.observeEditor()`
