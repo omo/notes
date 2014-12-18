@@ -49,3 +49,7 @@ GitRepository は lightweight API で本気度高いのは [git-utils](http://at
 こうコマンド呼んじゃうのがはやそうだなあ...
 Atom では [BufferedProcess](https://atom.io/docs/api/v0.158.0/BufferedProcess)
 を使うのが定石っぽい.
+
+# 保存の監視
+
+ * ｀TextEditor#onDidSave`
