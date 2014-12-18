@@ -43,12 +43,13 @@ Git まわりの API. [atom.GitRepository](https://atom.io/docs/api/v0.158.0/Git
 
 [このスレッドによると](https://discuss.atom.io/t/git-interaction-commands/1159/6)
 GitRepository は lightweight API で本気度高いのは [git-utils](http://atom.github.io/git-utils/) という
-別パッケージになってるぽい。しかしこれは Atom でなく Node のライブラリなのでどうやって Atom にインストールすればいいの...?
+別パッケージになってるぽい。しoかしこれは Atom でなく Node のライブラリなのでどうやって Atom にインストールすればいいの...?
 そしてみたかんじコミットできる API なさげだな... GitHub のエディタなのにその中からコミットできないってちょっとすごいね...
 
 こうコマンド呼んじゃうのがはやそうだなあ...
 Atom では [BufferedProcess](https://atom.io/docs/api/v0.158.0/BufferedProcess)
-を使うのが定石っぽい.
+を使うのが
+定石っぽい.
 
 # 保存の監視
 
