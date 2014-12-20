@@ -3,15 +3,15 @@
 
 URL:
 
-  * https://github.com/atom/atom-shell
-  * [ドキュメント](https://github.com/atom/atom-shell/tree/master/docs)もチェックインされている
+  * GitHub: https://github.com/atom/atom-shell
+  * [ドキュメント](https://github.com/atom/atom-shell/tree/master/docs)もチェックインされている.
 
- 関係するプロジェクト:
+関係するプロジェクト:
 
-  * [Libchromiumcontent](https://github.com/brightray/libchromiumcontent)
+  * [Libchromiumcontent](https://github.com/brightray/libchromiumcontent):
     * Chromium の Content API をリンクする。Atom-shell とかはこれのビルド済バイナリをダウンロードして使っている.
     * エクスポートシンボルまわりでちょっとだけパッチしている
-  * [Brightray](https://github.com/brightray/brightray)
+  * [Brightray](https://github.com/brightray/brightray):
     * Libchromiumcontent の薄いラッパ。Delegate の実装とか。Atom-shell はこれを submodule で持ってビルドしている。
   * [Native-mate](https://www.npmjs.com/package/native-mate) V8 の C++ バインディングヘルパ. ドキュメントによると [GIN](https://chromium.googlesource.com/chromium/src/+/HEAD/gin/README)  のフォーク。
 
