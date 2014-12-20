@@ -26,3 +26,4 @@ IPC:
  * パラメタは base::Value, 戻り値は JSON の文字列.
  * Async と Sync がある. Chrome の SyncMessage をつかっている.
  * `EventEmitter` で listen する.
+ * Question: レンダラはどう identify 
