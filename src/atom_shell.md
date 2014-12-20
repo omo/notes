@@ -29,5 +29,5 @@ IPC:
  * Question: レンダラはどう identify されているのか?
 
 Remote:
+
  * `typeof x` が `object` か `array` だと remote reference になる. それ以外は copy される.
- 
