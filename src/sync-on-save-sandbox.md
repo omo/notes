@@ -8,4 +8,4 @@
 ほっとくと直るようにも見える。pageVisibility が変化したタイミングで更新している？
 
 Improving the commit message a bit.
-How is this? And this?
+How is this? And this? Then?
