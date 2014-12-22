@@ -1,5 +1,5 @@
 
-# 自分用の Atom Package を書く
+# 自分用の Atom Package を書く!
 
 目標:
 
