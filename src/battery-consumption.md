@@ -45,8 +45,6 @@ Linux にはそのための [cpuidle subsystem](http://lwn.net/Articles/384146/)
 この戦略は行儀の悪いプロセスが起き続けていると都合が悪いし、
 サーバなどで下手に寝たくない場合のも嬉しくない。
 
-
-
 ## Wake-lock
 
 
