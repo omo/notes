@@ -47,6 +47,7 @@ Linux にはそのための [cpuidle subsystem](http://lwn.net/Articles/384146/)
 
 ## Wake-lock
 
+TBW
 
 ## C-States
 
